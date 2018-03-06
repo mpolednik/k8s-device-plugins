@@ -1,4 +1,4 @@
-#List of Kubernetes device plugins (sorted by category + `sort`):
+# List of Kubernetes device plugins (sorted by category + `sort`):
 
 ## GPU
 * [NVIDIA (gpu)](https://github.com/NVIDIA/k8s-device-plugin/)
@@ -12,7 +12,7 @@
 * [KVM](https://github.com/kubevirt/kubernetes-device-plugins/tree/master/docs/kvm)
 * [VFIO](https://github.com/kubevirt/kubernetes-device-plugins/tree/master/docs/vfio)
 
-#Alternative device approaches:
+# Alternative device approaches:
 
 ## GPU
 * [KubeGPU](https://github.com/Microsoft/KubeGPU)
