@@ -21,4 +21,5 @@
 * [KubeGPU](https://github.com/Microsoft/KubeGPU)
 
 ## Additional resources for building plugins
+* [reference docs](https://kubernetes.io/docs/concepts/cluster-administration/device-plugins/)
 * [Device Plugin Manager](https://github.com/kubevirt/device-plugin-manager)
